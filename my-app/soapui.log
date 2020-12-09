@@ -1,0 +1,33 @@
+2020-12-09 10:34:10,808 WARN  [SoapUI] Missing folder [C:\Users\AparnaP\Desktop\API Testing\my-app\ext] for external libraries
+2020-12-09 10:34:11,140 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\AparnaP\soapui-settings.xml]
+2020-12-09 10:34:14,238 INFO  [WsdlProject] Loaded project from [file:/C:/Users/AparnaP/Desktop/API%20Testing/my-app/Sales-Order-soapui-project.xml]
+2020-12-09 10:34:14,670 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Sales Order]
+2020-12-09 10:34:14,673 INFO  [SoapUITestCaseRunner] Running Project [Sales Order], runType = SEQUENTIAL
+2020-12-09 10:34:14,729 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Sales Order Using Property & Property Transfer]
+2020-12-09 10:34:14,748 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:34:14,825 INFO  [SoapUITestCaseRunner] running step [Property Transfer for Sales Order]
+2020-12-09 10:34:15,265 INFO  [SoapUITestCaseRunner] running step [Create Sales Order]
+2020-12-09 10:34:17,130 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:34:17,131 INFO  [SoapUITestCaseRunner] running step [Get List of all Sales Order]
+2020-12-09 10:35:04,996 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:35:05,000 INFO  [SoapUITestCaseRunner] running step [Get Sales Order by id]
+2020-12-09 10:35:06,605 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:35:06,609 INFO  [SoapUITestCaseRunner] running step [Get Status of Sales Order by Id]
+2020-12-09 10:35:07,558 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:35:07,558 INFO  [SoapUITestCaseRunner] running step [Cancel Sales Order by Id]
+2020-12-09 10:35:08,489 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:35:08,493 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Sales Order Using Property & Property Transfer], time taken: 53690ms, status: FINISHED
+2020-12-09 10:35:08,496 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Sales Order Using Property & Property Expansion]
+2020-12-09 10:35:08,497 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:35:08,500 INFO  [SoapUITestCaseRunner] running step [Create Sales Order]
+2020-12-09 10:35:09,522 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:35:09,522 INFO  [SoapUITestCaseRunner] running step [Get List of all Sales Order]
+2020-12-09 10:36:32,113 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:36:32,116 INFO  [SoapUITestCaseRunner] running step [Get Sales Order by id]
+2020-12-09 10:36:34,027 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:36:34,030 INFO  [SoapUITestCaseRunner] running step [Get Status of Sales Order by Id]
+2020-12-09 10:36:34,954 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:36:34,954 INFO  [SoapUITestCaseRunner] running step [Cancel Sales Order by Id]
+2020-12-09 10:36:36,279 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:36:36,280 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Sales Order Using Property & Property Expansion], time taken: 87763ms, status: FINISHED
+2020-12-09 10:36:36,281 INFO  [SoapUITestCaseRunner] Project [Sales Order] finished with status [FINISHED] in 141598ms
